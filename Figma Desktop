@@ -1,0 +1,1501 @@
+<template>
+  <div :class="$style.desktop1">
+    <div :class="$style.desktop1Child" />
+    <img
+      :class="$style.materialSymbolsarrowDropDoIcon"
+      alt=""
+      src="/materialsymbolsarrowdropdownrounded.svg"
+    />
+    <div :class="$style.materialSymbolsarrowDropDo" />
+    <b :class="$style.more">More</b>
+    <img :class="$style.image1Icon" alt="" src="/image-1@2x.png" />
+    <b :class="$style.events">Events</b>
+    <b :class="$style.teardown">Teardown</b>
+    <b :class="$style.pms">100 PMs</b>
+    <b :class="$style.resources">Resources</b>
+    <b :class="$style.ally">Ally</b>
+    <b :class="$style.academy">Academy</b>
+    <b :class="$style.jobs">Jobs</b>
+    <img
+      :class="$style.materialSymbolsarrowDropDoIcon1"
+      alt=""
+      src="/materialsymbolsarrowdropdownrounded1.svg"
+    />
+    <b :class="$style.blog">Blog</b>
+    <b :class="$style.joinTheWorldsContainer">
+      <p :class="$style.joinTheWorlds">Join the worlds most</p>
+      <p :class="$style.passionateProductCommunity">
+        Passionate Product Community
+      </p>
+    </b>
+    <div :class="$style.theProductFolksContainer">
+      <p :class="$style.joinTheWorlds">
+        The Product Folks is a volunteer driven community of Product Managers
+        and enthusiasts
+      </p>
+      <p :class="$style.joinTheWorlds">
+        who are passionate about making an impact and help everyone grow
+        together
+      </p>
+    </div>
+    <div :class="$style.desktop1Item" />
+    <div :class="$style.desktop1Inner" />
+    <div :class="$style.rectangleDiv" />
+    <div :class="$style.desktop1Child1" />
+    <div :class="$style.desktop1Child2" />
+    <div :class="$style.desktop1Child3" />
+    <img
+      :class="$style.iconParkSolidwomen"
+      alt=""
+      src="/iconparksolidwomen.svg"
+    />
+    <b :class="$style.dealkit">Dealkit</b>
+    <b :class="$style.ebooksreports">Ebooks/Reports</b>
+    <img
+      :class="$style.mdibookOpenBlankVariantIcon"
+      alt=""
+      src="/mdibookopenblankvariant.svg"
+    />
+    <img :class="$style.mdiatomIcon" alt="" src="/mdiatom.svg" />
+    <img
+      :class="$style.foundationresultsDemographicIcon"
+      alt=""
+      src="/foundationresultsdemographics.svg"
+    />
+    <img
+      :class="$style.materialSymbolsarrowDropDoIcon2"
+      alt=""
+      src="/materialsymbolsarrowdropdownrounded2.svg"
+    />
+    <b :class="$style.womenInProduct">Women in Product</b>
+    <b :class="$style.bitsNAtoms">Bits n Atoms</b>
+    <b :class="$style.productDemo">Product Demo</b>
+    <img :class="$style.mdifirstAidKitIcon" alt="" src="/mdifirstaidkit.svg" />
+    <b :class="$style.signMeUp">Sign Me Up for the Newsletter</b>
+    <b :class="$style.yourName">Your Name:</b>
+    <b :class="$style.yourEmail">Your Email:</b>
+    <div :class="$style.desktop1Child4" />
+    <div :class="$style.desktop1Child5" />
+    <div :class="$style.desktop1Child6" />
+    <div :class="$style.desktop1Child7" />
+    <div :class="$style.desktop1Child8" />
+    <div :class="$style.signMeUp1">Sign me up</div>
+    <div :class="$style.desktop1Child9" />
+    <b :class="$style.productLeadersTheContainer">
+      <span>Product Leaders </span>
+      <span :class="$style.theProductFolks1">The Product Folks</span>
+    </b>
+    <div :class="$style.whatsNew">
+      <span>Whats </span>
+      <span :class="$style.new">New!</span>
+    </div>
+    <img
+      :class="$style.e84c4b7b67910cea6a31bPlgWebsIcon"
+      alt=""
+      src="/642e84c4b7b67910cea6a31b-plgwebsite-bannerp1600-1@2x.png"
+    />
+    <div :class="$style.desktop1Child10" />
+    <div :class="$style.applyNow">Apply Now</div>
+    <b :class="$style.featuredProductEventsContainer">
+      <span>Featured </span>
+      <span :class="$style.productEvents">Product Events</span>
+      <span> </span>
+    </b>
+    <b :class="$style.masterclassesWorkshopsFoun"
+      >Masterclasses, Workshops, Founder Stories and much more to help you grow
+      in Product Management</b
+    >
+    <b :class="$style.registerForOurContainer">
+      <span>Register for our </span>
+      <span :class="$style.upcomingEvent">Upcoming Event</span>
+    </b>
+    <div :class="$style.desktop1Child11" />
+    <b :class="$style.viewAllEvents">View All Events</b>
+    <img :class="$style.image4Icon" alt="" src="/image-4@2x.png" />
+    <b :class="$style.brandsWevePartneredContainer">
+      <span>Brands We've </span>
+      <span :class="$style.partneredWith">Partnered With</span>
+    </b>
+    <img :class="$style.image5Icon" alt="" src="/image-5@2x.png" />
+    <div :class="$style.wantToPartnerContainer">
+      <span :class="$style.wantToPartner"
+        >Want to partner with us? Write to us at</span
+      >
+      <span> </span>
+      <a
+        :class="$style.teamtheproductfolkscom"
+        href="mailto:team@theproductfolks.com?subject=Hello%20from%20your%20website!"
+        target="_blank"
+      >
+        <span>
+          <span :class="$style.teamtheproductfolkscom1"
+            >team@theproductfolks.com</span
+          >
+        </span>
+      </a>
+    </div>
+    <b :class="$style.curatedJobOpportunitiesContainer">
+      <span>Curated </span>
+      <span :class="$style.jobOpportunities">Job Opportunities</span>
+    </b>
+    <img :class="$style.image6Icon" alt="" src="/image-6@2x.png" />
+    <div :class="$style.desktop1Child12" />
+    <b :class="$style.viewAllJobs">View All Jobs</b>
+    <div :class="$style.desktop1Child13" />
+    <div :class="$style.desktop1Child14" />
+    <div :class="$style.desktop1Child15" />
+    <div :class="$style.desktop1Child16" />
+    <div :class="$style.womenInProductContainer">
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <b>Women in Product</b>
+      </p>
+      <p :class="$style.blankLine">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.womenInProductIsAnExclusi">
+        <span>
+          <span>
+            <span
+              >Women In Product is an exclusive niche community focused on
+              empowering women to build products of the future. WIP seeks to
+              break down the barriers for women by creating a safe space to
+              learn, grow, and network.</span
+            >
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.whatsInside">
+        <span>
+          <b>Whats Inside?</b>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <span>
+          <span>
+            <span>1:1 mentorship sessions with industry experts</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Interactive master-classes</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Group networking events (time to find a tribe for life)</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Curated networking (networking with a purpose)</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span
+              >WIP Job Board (accelerate careers together with powerful members)
+              and
+            </span>
+            <span :class="$style.muchMore">much more...</span>
+          </span>
+        </span>
+      </p>
+    </div>
+    <div :class="$style.desktop1Child17" />
+    <div :class="$style.desktop1Child18" />
+    <img
+      :class="$style.iconParkSolidwomen1"
+      alt=""
+      src="/iconparksolidwomen1.svg"
+    />
+    <img
+      :class="$style.ea88a77dd201fa88b51014PexelsIcon"
+      alt=""
+      src="/62ea88a77dd201fa88b51014-pexelsphoto1569076p500-1@2x.png"
+    />
+    <div :class="$style.productTeardownProductContainer">
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <b>Product Teardown</b>
+      </p>
+      <p :class="$style.blankLine">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.womenInProductIsAnExclusi">
+        <span>
+          <span>
+            <span
+              >Product Teardown is an initiative to enable aspiring and existing
+              PMs to showcase their product learnings,get guidance and get a
+              chance to interview for jobs.</span
+            >
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.whatsInside">
+        <span>
+          <b>Whats Inside?</b>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <span>
+          <span>
+            <span>Hone your product skills and get guided mentorship</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Present your ideas, get featured & win rewards</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Skip the queue for Product job interviews</span>
+          </span>
+        </span>
+      </p>
+    </div>
+    <img
+      :class="$style.bed87134b1ee8ff781379TeardownIcon"
+      alt=""
+      src="/607bed87134b1ee8ff781379-teardowns-1.svg"
+    />
+    <img
+      :class="$style.ad54bf23ce4325f625a290ThisTeIcon"
+      alt=""
+      src="/60ad54bf23ce4325f625a290-thisteardown-1@2x.png"
+    />
+    <div :class="$style.learnProductManagementContainer">
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <b>Learn Product Management</b>
+      </p>
+      <p :class="$style.blankLine">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.womenInProductIsAnExclusi">
+        <span>
+          <span>
+            <span
+              >Find the best Product Management resources on the internet via
+              our dedicated learning platform, completely
+            </span>
+          </span>
+          <b :class="$style.freeOfCost">
+            <span :class="$style.freeOfCost1">free of cost</span>
+            <span :class="$style.span">.</span>
+          </b>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>&nbsp;</span>
+        </span>
+      </p>
+      <p :class="$style.whatsInside">
+        <span>
+          <b>Whats Inside?</b>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>&nbsp;</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.mentorshipSessionsWithIndus">
+        <span>
+          <span>
+            <span>Curated Roadmap and Resources to Upskill in Product.</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>Case studies to help you grasp concepts better.</span>
+          </span>
+        </span>
+      </p>
+      <p :class="$style.joinTheWorlds">
+        <span>
+          <span>
+            <span>New Resources being added every week.</span>
+          </span>
+        </span>
+      </p>
+    </div>
+    <div :class="$style.desktop1Child19" />
+    <img
+      :class="$style.foundationresultsDemographicIcon1"
+      alt=""
+      src="/foundationresultsdemographics1.svg"
+    />
+    <img
+      :class="$style.ad55c53104fb3e6827a5e5Lpm1Icon"
+      alt=""
+      src="/60ad55c53104fb3e6827a5e5-lpm-1@2x.png"
+    />
+    <img :class="$style.pslovedsgnIcon" alt="" src="/pslovedsgn.svg" />
+    <div :class="$style.desktop1Child20" />
+    <b :class="$style.comeForTheContainer">
+      <p :class="$style.joinTheWorlds">Come for the Content</p>
+      <p :class="$style.joinTheWorlds">
+        <span> </span>
+        <span :class="$style.stayForThe">Stay for the Community</span>
+      </p>
+    </b>
+    <div :class="$style.desktop1Child21" />
+    <div :class="$style.desktop1Child22" />
+    <div :class="$style.desktop1Child23" />
+    <b :class="$style.signMeUp2">Sign me Up</b>
+    <div :class="$style.name">Name*</div>
+    <div :class="$style.email">Email*</div>
+    <img :class="$style.vectorIcon" alt="" src="/vector.svg" />
+    <img :class="$style.maskGroupIcon" alt="" src="/mask-group.svg" />
+    <img :class="$style.vectorIcon1" alt="" src="/vector1.svg" />
+    <img :class="$style.vectorIcon2" alt="" src="/vector2.svg" />
+    <img :class="$style.vectorIcon3" alt="" src="/vector3.svg" />
+    <img :class="$style.vectorIcon4" alt="" src="/vector4.svg" />
+    <img :class="$style.vectorIcon5" alt="" src="/vector5.svg" />
+    <img :class="$style.vectorIcon6" alt="" src="/vector6.svg" />
+    <img :class="$style.maskGroupIcon1" alt="" src="/mask-group1.svg" />
+    <img :class="$style.vectorIcon7" alt="" src="/vector7.svg" />
+    <img :class="$style.vectorIcon8" alt="" src="/vector8.svg" />
+    <img :class="$style.vectorIcon9" alt="" src="/vector9.svg" />
+    <img :class="$style.vectorIcon10" alt="" src="/vector10.svg" />
+    <img :class="$style.vectorIcon11" alt="" src="/vector11.svg" />
+    <img :class="$style.vectorIcon12" alt="" src="/vector12.svg" />
+    <img :class="$style.vectorIcon13" alt="" src="/vector13.svg" />
+    <img :class="$style.vectorIcon14" alt="" src="/vector14.svg" />
+    <img :class="$style.vectorIcon15" alt="" src="/vector15.svg" />
+    <img :class="$style.vectorIcon16" alt="" src="/vector16.svg" />
+    <img :class="$style.image2Icon" alt="" src="/image-2@2x.png" />
+    <img :class="$style.image3Icon" alt="" src="/image-3@2x.png" />
+    <div :class="$style.a3a84ce79c37ce4c730acLeftMan">
+      <img :class="$style.image8Icon" alt="" src="/image-8@2x.png" />
+    </div>
+    <img :class="$style.desktop1Child24" alt="" />
+    <img :class="$style.image7Icon" alt="" src="/image-7@2x.png" />
+  </div>
+</template>
+<script lang="ts">
+  import { defineComponent, ref } from "vue";
+
+  export default defineComponent({
+    name: "Desktop1",
+  });
+</script>
+<style module>
+  .desktop1Child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: var(--color-black);
+    width: 1726px;
+    height: 131px;
+  }
+  .materialSymbolsarrowDropDoIcon {
+    position: absolute;
+    top: 52px;
+    left: 1434px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .materialSymbolsarrowDropDo {
+    position: absolute;
+    top: 930px;
+    left: 790px;
+    width: 162px;
+    height: 134px;
+    overflow: hidden;
+  }
+  .more {
+    position: absolute;
+    top: 55px;
+    left: 1371px;
+    font-size: 26px;
+  }
+  .image1Icon {
+    position: absolute;
+    top: 20px;
+    left: 38px;
+    width: 168px;
+    height: 91px;
+    object-fit: cover;
+  }
+  .events {
+    position: absolute;
+    top: 58px;
+    left: 294px;
+  }
+  .teardown {
+    position: absolute;
+    top: 58px;
+    left: 409px;
+  }
+  .pms {
+    position: absolute;
+    top: 58px;
+    left: 559px;
+  }
+  .resources {
+    position: absolute;
+    top: 58px;
+    left: 692px;
+  }
+  .ally {
+    position: absolute;
+    top: 58px;
+    left: 849px;
+  }
+  .academy {
+    position: absolute;
+    top: 58px;
+    left: 929px;
+  }
+  .jobs {
+    position: absolute;
+    top: 58px;
+    left: 1076px;
+  }
+  .materialSymbolsarrowDropDoIcon1 {
+    position: absolute;
+    top: -69px;
+    left: 1448px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .blog {
+    position: absolute;
+    top: 58px;
+    left: 1181px;
+  }
+  .joinTheWorlds {
+    margin: 0;
+  }
+  .passionateProductCommunity {
+    margin: 0;
+    background: linear-gradient(90deg, #2400ff, #ff0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .joinTheWorldsContainer {
+    position: absolute;
+    top: 215px;
+    left: 141px;
+    font-size: var(--font-size-77xl);
+    text-align: center;
+  }
+  .theProductFolksContainer {
+    position: absolute;
+    top: 476px;
+    left: 230px;
+    font-size: var(--font-size-13xl);
+    text-align: center;
+  }
+  .desktop1Item {
+    position: absolute;
+    top: 687px;
+    left: 165px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-blueviolet-100);
+    width: 202px;
+    height: 185px;
+    display: none;
+  }
+  .desktop1Inner {
+    position: absolute;
+    top: 687px;
+    left: 165px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-blue);
+    width: 202px;
+    height: 185px;
+  }
+  .rectangleDiv {
+    position: absolute;
+    top: 687px;
+    left: 448px;
+    border-radius: var(--br-43xl);
+    background-color: #5c00b7;
+    width: 202px;
+    height: 185px;
+  }
+  .desktop1Child1 {
+    position: absolute;
+    top: 686px;
+    left: 742px;
+    border-radius: var(--br-43xl);
+    background-color: #fa00ff;
+    width: 202px;
+    height: 185px;
+  }
+  .desktop1Child2 {
+    position: absolute;
+    top: 687px;
+    left: 1036px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-deeppink);
+    width: 202px;
+    height: 185px;
+  }
+  .desktop1Child3 {
+    position: absolute;
+    top: 687px;
+    left: 1331px;
+    border-radius: var(--br-43xl);
+    background-color: #ff0000;
+    width: 202px;
+    height: 185px;
+  }
+  .iconParkSolidwomen {
+    position: absolute;
+    top: 720px;
+    left: 201px;
+    width: 130px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .dealkit {
+    position: absolute;
+    top: 890px;
+    left: 1384px;
+    font-size: var(--font-size-9xl);
+    text-align: center;
+  }
+  .ebooksreports {
+    position: absolute;
+    top: 894px;
+    left: 458px;
+    font-size: var(--font-size-9xl);
+    text-align: center;
+  }
+  .mdibookOpenBlankVariantIcon {
+    position: absolute;
+    top: 730px;
+    left: 502px;
+    width: 106px;
+    height: 94px;
+    overflow: hidden;
+  }
+  .mdiatomIcon {
+    position: absolute;
+    top: 722px;
+    left: 778px;
+    width: 129px;
+    height: 117px;
+    overflow: hidden;
+  }
+  .foundationresultsDemographicIcon {
+    position: absolute;
+    top: 726px;
+    left: 1079px;
+    width: 118px;
+    height: 109px;
+    overflow: hidden;
+  }
+  .materialSymbolsarrowDropDoIcon2 {
+    position: absolute;
+    top: 1229px;
+    left: 822px;
+    width: 118px;
+    height: 121px;
+    overflow: hidden;
+  }
+  .womenInProduct {
+    position: absolute;
+    top: 894px;
+    left: 141px;
+    font-size: var(--font-size-9xl);
+    text-align: center;
+  }
+  .bitsNAtoms {
+    position: absolute;
+    top: 894px;
+    left: 768px;
+    font-size: var(--font-size-9xl);
+    text-align: center;
+  }
+  .productDemo {
+    position: absolute;
+    top: 894px;
+    left: 1047px;
+    font-size: var(--font-size-9xl);
+    text-align: center;
+  }
+  .mdifirstAidKitIcon {
+    position: absolute;
+    top: 728px;
+    left: 1384px;
+    width: 104px;
+    height: 95px;
+    overflow: hidden;
+  }
+  .signMeUp {
+    position: absolute;
+    top: 1161px;
+    left: 608px;
+    font-size: var(--font-size-21xl);
+    text-align: center;
+  }
+  .yourName {
+    position: absolute;
+    top: 1410px;
+    left: 283px;
+    font-size: var(--font-size-21xl);
+    text-align: center;
+  }
+  .yourEmail {
+    position: absolute;
+    top: 1529px;
+    left: 283px;
+    font-size: var(--font-size-21xl);
+    text-align: center;
+  }
+  .desktop1Child4 {
+    position: absolute;
+    top: 1394px;
+    left: 567px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 850px;
+    height: 83px;
+  }
+  .desktop1Child5 {
+    position: absolute;
+    top: 2795px;
+    left: 534px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-black);
+    width: 850px;
+    height: 83px;
+    display: none;
+  }
+  .desktop1Child6 {
+    position: absolute;
+    top: 1684px;
+    left: 843px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 259px;
+    height: 78px;
+  }
+  .desktop1Child7 {
+    position: absolute;
+    top: 1517px;
+    left: 567px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 850px;
+    height: 83px;
+  }
+  .desktop1Child8 {
+    position: absolute;
+    top: 2836px;
+    left: 527px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-black);
+    width: 850px;
+    height: 83px;
+    display: none;
+  }
+  .signMeUp1 {
+    position: absolute;
+    top: 1697px;
+    left: 871px;
+    font-size: var(--font-size-21xl);
+    font-weight: 500;
+    color: var(--color-black);
+    text-align: center;
+  }
+  .desktop1Child9 {
+    position: absolute;
+    top: 1938px;
+    left: 0px;
+    background-color: var(--color-white);
+    width: 1726px;
+    height: 11664px;
+  }
+  .theProductFolks1 {
+    background: linear-gradient(269.99deg, #4f00fb, #f380f3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .productLeadersTheContainer {
+    position: absolute;
+    top: 11221px;
+    left: 35px;
+    font-size: var(--font-size-75xl);
+    display: inline-block;
+    width: 1708px;
+    color: var(--color-black);
+  }
+  .new {
+    background: linear-gradient(269.74deg, #1400ff, #00fdee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .whatsNew {
+    position: absolute;
+    top: 1974px;
+    left: 68px;
+    font-size: var(--font-size-77xl);
+    font-weight: 500;
+    text-align: center;
+    color: var(--color-black);
+  }
+  .e84c4b7b67910cea6a31bPlgWebsIcon {
+    position: absolute;
+    top: 2156px;
+    left: 81px;
+    width: 1600px;
+    height: 501px;
+    object-fit: cover;
+  }
+  .desktop1Child10 {
+    position: absolute;
+    top: 2714px;
+    left: 702px;
+    border-radius: var(--br-74xl);
+    background-color: #0f0000;
+    width: 345px;
+    height: 105px;
+  }
+  .applyNow {
+    position: absolute;
+    top: 2741px;
+    left: 773px;
+    font-size: var(--font-size-21xl);
+    font-weight: 500;
+    text-align: center;
+  }
+  .productEvents {
+    background: linear-gradient(269.92deg, #4200ff, #ff00b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .featuredProductEventsContainer {
+    position: absolute;
+    top: 2978px;
+    left: 290px;
+    font-size: var(--font-size-77xl);
+    color: var(--color-black);
+  }
+  .masterclassesWorkshopsFoun {
+    position: absolute;
+    top: 3120px;
+    left: 81px;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+  }
+  .upcomingEvent {
+    background: linear-gradient(-89.95deg, #3300ff, #ff00e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .registerForOurContainer {
+    position: absolute;
+    top: 4143px;
+    left: 133px;
+    font-size: var(--font-size-77xl);
+    display: inline-block;
+    width: 1511px;
+    height: 295px;
+    color: var(--color-black);
+  }
+  .desktop1Child11 {
+    position: absolute;
+    top: 4988px;
+    left: 617px;
+    border-radius: var(--br-134xl);
+    background-color: var(--color-black);
+    width: 491px;
+    height: 136px;
+  }
+  .viewAllEvents {
+    position: absolute;
+    top: 5025px;
+    left: 713px;
+    font-size: var(--font-size-29xl);
+  }
+  .image4Icon {
+    position: absolute;
+    top: 5283px;
+    left: 0px;
+    width: 1726px;
+    height: 519px;
+    object-fit: cover;
+  }
+  .partneredWith {
+    background: linear-gradient(-89.9deg, #4000fd, #ff00e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .brandsWevePartneredContainer {
+    position: absolute;
+    top: 5961px;
+    left: 157px;
+    font-size: var(--font-size-77xl);
+    display: inline-block;
+    width: 1487px;
+    height: 350px;
+    color: var(--color-black);
+  }
+  .image5Icon {
+    position: absolute;
+    top: 6179px;
+    left: 0px;
+    width: 2039px;
+    height: 894px;
+    object-fit: cover;
+  }
+  .wantToPartner {
+    color: var(--color-black);
+  }
+  .teamtheproductfolkscom1 {
+    text-decoration: underline;
+  }
+  .teamtheproductfolkscom {
+    color: inherit;
+  }
+  .wantToPartnerContainer {
+    position: absolute;
+    top: 7141px;
+    left: 311px;
+    font-size: var(--font-size-13xl);
+    font-weight: 500;
+    display: inline-block;
+    width: 1104px;
+    height: 89px;
+    color: var(--color-fuchsia-100);
+  }
+  .jobOpportunities {
+    background: linear-gradient(-89.94deg, #4800fc, #f100e6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .curatedJobOpportunitiesContainer {
+    position: absolute;
+    top: 7280px;
+    left: 252px;
+    font-size: var(--font-size-77xl);
+    display: inline-block;
+    width: 1373px;
+    height: 164px;
+    color: var(--color-black);
+  }
+  .image6Icon {
+    position: absolute;
+    top: 7472px;
+    left: 177px;
+    width: 1436px;
+    height: 472px;
+    object-fit: cover;
+  }
+  .desktop1Child12 {
+    position: absolute;
+    top: 8048px;
+    left: 632px;
+    border-radius: var(--br-134xl);
+    background-color: var(--color-black);
+    width: 491px;
+    height: 136px;
+  }
+  .viewAllJobs {
+    position: absolute;
+    top: 8085px;
+    left: 725px;
+    font-size: var(--font-size-29xl);
+  }
+  .desktop1Child13 {
+    position: absolute;
+    top: 8337px;
+    left: 0px;
+    background-color: var(--color-black);
+    width: 1726px;
+    height: 2792px;
+  }
+  .desktop1Child14 {
+    position: absolute;
+    top: 8436px;
+    left: 48px;
+    border-radius: var(--br-68xl);
+    background-color: #8133e4;
+    width: 1630px;
+    height: 744px;
+  }
+  .desktop1Child15 {
+    position: absolute;
+    top: 9296px;
+    left: 48px;
+    border-radius: var(--br-68xl);
+    background-color: #0066ff;
+    width: 1630px;
+    height: 744px;
+  }
+  .desktop1Child16 {
+    position: absolute;
+    top: 10156px;
+    left: 48px;
+    border-radius: var(--br-68xl);
+    background-color: #bd00ff;
+    width: 1630px;
+    height: 744px;
+  }
+  .blankLine {
+    margin: 0;
+    font-size: var(--font-size-13xl);
+  }
+  .womenInProductIsAnExclusi {
+    margin: 0;
+    color: var(--color-gainsboro);
+  }
+  .whatsInside {
+    margin: 0;
+    color: var(--color-navy);
+  }
+  .mentorshipSessionsWithIndus {
+    margin: 0;
+    color: var(--color-white);
+  }
+  .muchMore {
+    font-weight: 500;
+    font-family: var(--font-dm-sans);
+  }
+  .womenInProductContainer {
+    position: absolute;
+    top: 8484px;
+    left: 117px;
+    display: inline-block;
+    width: 1103px;
+    height: 671px;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+  }
+  .desktop1Child17 {
+    position: absolute;
+    top: 8411px;
+    left: 1325px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-blueviolet-100);
+    width: 202px;
+    height: 185px;
+    display: none;
+  }
+  .desktop1Child18 {
+    position: absolute;
+    top: 8411px;
+    left: 1325px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-blue);
+    width: 202px;
+    height: 185px;
+  }
+  .iconParkSolidwomen1 {
+    position: absolute;
+    top: 8444px;
+    left: 1361px;
+    width: 130px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .ea88a77dd201fa88b51014PexelsIcon {
+    position: absolute;
+    top: 8673px;
+    left: 1247px;
+    width: 393px;
+    height: 378px;
+    object-fit: cover;
+  }
+  .productTeardownProductContainer {
+    position: absolute;
+    top: 9350px;
+    left: 117px;
+    display: inline-block;
+    width: 1361px;
+    height: 635px;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+  }
+  .bed87134b1ee8ff781379TeardownIcon {
+    position: absolute;
+    top: 9240px;
+    left: 1312px;
+    width: 215px;
+    height: 208px;
+    overflow: hidden;
+  }
+  .ad54bf23ce4325f625a290ThisTeIcon {
+    position: absolute;
+    top: 9577px;
+    left: 1259px;
+    width: 312px;
+    height: 386px;
+    object-fit: cover;
+  }
+  .freeOfCost1 {
+    color: var(--color-white);
+  }
+  .span {
+    color: var(--color-gainsboro);
+  }
+  .freeOfCost {
+    font-family: var(--font-dm-sans);
+  }
+  .learnProductManagementContainer {
+    position: absolute;
+    top: 10213px;
+    left: 117px;
+    display: inline-block;
+    width: 1454px;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+  }
+  .desktop1Child19 {
+    position: absolute;
+    top: 10120px;
+    left: 1323px;
+    border-radius: var(--br-43xl);
+    background-color: var(--color-deeppink);
+    width: 202px;
+    height: 185px;
+  }
+  .foundationresultsDemographicIcon1 {
+    position: absolute;
+    top: 10158px;
+    left: 1376px;
+    width: 118px;
+    height: 109px;
+    overflow: hidden;
+  }
+  .ad55c53104fb3e6827a5e5Lpm1Icon {
+    position: absolute;
+    top: 10423px;
+    left: 1248px;
+    width: 333px;
+    height: 428px;
+    object-fit: cover;
+  }
+  .pslovedsgnIcon {
+    position: absolute;
+    top: 11237px;
+    left: 797px;
+    width: 93px;
+    height: 95px;
+    overflow: hidden;
+  }
+  .desktop1Child20 {
+    position: absolute;
+    top: 12131px;
+    left: 0px;
+    background-color: var(--color-black);
+    width: 1726px;
+    height: 657px;
+  }
+  .stayForThe {
+    background: linear-gradient(90deg, #fc0003, #2800fa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .comeForTheContainer {
+    position: absolute;
+    top: 12233px;
+    left: 241px;
+    font-size: var(--font-size-75xl);
+    display: inline-block;
+    text-align: center;
+    width: 1276px;
+    height: 227px;
+  }
+  .desktop1Child21 {
+    position: absolute;
+    top: 12572px;
+    left: 277px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 408px;
+    height: 118px;
+  }
+  .desktop1Child22 {
+    position: absolute;
+    top: 12572px;
+    left: 764px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 408px;
+    height: 118px;
+  }
+  .desktop1Child23 {
+    position: absolute;
+    top: 12572px;
+    left: 1207px;
+    border-radius: var(--br-74xl);
+    background-color: var(--color-white);
+    width: 312px;
+    height: 118px;
+  }
+  .signMeUp2 {
+    position: absolute;
+    top: 12605px;
+    left: 1241px;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    text-align: center;
+  }
+  .name {
+    position: absolute;
+    top: 12607px;
+    left: 323px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-black);
+    text-align: center;
+  }
+  .email {
+    position: absolute;
+    top: 12607px;
+    left: 820px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-black);
+    text-align: center;
+  }
+  .vectorIcon {
+    position: absolute;
+    height: 1.94%;
+    width: 8.65%;
+    top: 87.72%;
+    right: 85.11%;
+    bottom: 10.33%;
+    left: 6.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maskGroupIcon {
+    position: absolute;
+    height: 0.94%;
+    width: 8.69%;
+    top: 87.73%;
+    right: 85.11%;
+    bottom: 11.33%;
+    left: 6.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon1 {
+    position: absolute;
+    height: 1.94%;
+    width: 8.68%;
+    top: 87.74%;
+    right: 85.09%;
+    bottom: 10.33%;
+    left: 6.23%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon2 {
+    position: absolute;
+    height: 0.32%;
+    width: 2.4%;
+    top: 87.46%;
+    right: 88.54%;
+    bottom: 12.22%;
+    left: 9.07%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon3 {
+    position: absolute;
+    height: 0.38%;
+    width: 3.74%;
+    top: 87.4%;
+    right: 87.88%;
+    bottom: 12.22%;
+    left: 8.37%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon4 {
+    position: absolute;
+    height: 0.14%;
+    width: 1.15%;
+    top: 87.57%;
+    right: 88.71%;
+    bottom: 12.28%;
+    left: 10.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon5 {
+    position: absolute;
+    height: 0.14%;
+    width: 1.79%;
+    top: 87.65%;
+    right: 88.64%;
+    bottom: 12.21%;
+    left: 9.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon6 {
+    position: absolute;
+    height: 1.97%;
+    width: 5.43%;
+    top: 87.76%;
+    right: 2.14%;
+    bottom: 10.26%;
+    left: 92.43%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .maskGroupIcon1 {
+    position: absolute;
+    height: 0.83%;
+    width: 5.45%;
+    top: 87.76%;
+    right: 2.09%;
+    bottom: 11.41%;
+    left: 92.47%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon7 {
+    position: absolute;
+    height: 1.97%;
+    width: 5.59%;
+    top: 87.78%;
+    right: 2.11%;
+    bottom: 10.26%;
+    left: 92.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon8 {
+    position: absolute;
+    height: 0.35%;
+    width: 2.39%;
+    top: 87.47%;
+    right: 3.91%;
+    bottom: 12.18%;
+    left: 93.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon9 {
+    position: absolute;
+    height: 0.37%;
+    width: 2.51%;
+    top: 87.46%;
+    right: 3.87%;
+    bottom: 12.17%;
+    left: 93.62%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon10 {
+    position: absolute;
+    height: 0.16%;
+    width: 1.24%;
+    top: 87.6%;
+    right: 4.96%;
+    bottom: 12.24%;
+    left: 93.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon11 {
+    position: absolute;
+    height: 0.15%;
+    width: 1.88%;
+    top: 87.68%;
+    right: 4.36%;
+    bottom: 12.16%;
+    left: 93.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon12 {
+    position: absolute;
+    height: 1.71%;
+    width: 8.32%;
+    top: 88.02%;
+    right: 6.42%;
+    bottom: 10.27%;
+    left: 85.26%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon13 {
+    position: absolute;
+    height: 1.7%;
+    width: 8.39%;
+    top: 88.03%;
+    right: 6.38%;
+    bottom: 10.27%;
+    left: 85.23%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon14 {
+    position: absolute;
+    height: 0.36%;
+    width: 2.41%;
+    top: 87.71%;
+    right: 8.33%;
+    bottom: 11.93%;
+    left: 89.26%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon15 {
+    position: absolute;
+    height: 0.47%;
+    width: 3.52%;
+    top: 87.61%;
+    right: 7.44%;
+    bottom: 11.92%;
+    left: 89.04%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon16 {
+    position: absolute;
+    height: 0.14%;
+    width: 1.15%;
+    top: 87.87%;
+    right: 9.46%;
+    bottom: 11.99%;
+    left: 89.38%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .image2Icon {
+    position: absolute;
+    top: 3234px;
+    left: 0px;
+    width: 2021px;
+    height: 724px;
+    object-fit: cover;
+  }
+  .image3Icon {
+    position: absolute;
+    top: 4318px;
+    left: 225px;
+    width: 1325px;
+    height: 533px;
+    object-fit: cover;
+  }
+  .image8Icon {
+    position: absolute;
+    top: 546px;
+    left: 229px;
+    width: 1736px;
+    height: 589px;
+    object-fit: cover;
+  }
+  .a3a84ce79c37ce4c730acLeftMan {
+    position: absolute;
+    top: 12513px;
+    left: -229px;
+    width: 151px;
+    height: 326px;
+    overflow: hidden;
+  }
+  .desktop1Child24 {
+    position: absolute;
+    top: 512px;
+    left: 720px;
+    width: 100px;
+    height: 100px;
+  }
+  .image7Icon {
+    position: absolute;
+    top: 11387px;
+    left: 99px;
+    width: 1528px;
+    height: 628px;
+    object-fit: cover;
+  }
+  .desktop1 {
+    position: relative;
+    background-color: var(--color-black);
+    width: 100%;
+    height: 14333px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-dm-sans);
+  }
+</style>
