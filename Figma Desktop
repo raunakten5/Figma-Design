@@ -430,7 +430,7 @@
     <img :class="$style.image7Icon" alt="" src="/image-7@2x.png" />
   </div>
 </template>
-<script lang="ts">
+<script>
   import { defineComponent, ref } from "vue";
 
   export default defineComponent({
